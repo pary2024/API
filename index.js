@@ -19,16 +19,8 @@ const  fetchData =async ()=>{
                       <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </div>` )
-
-
-
+            </div>` );
     
 }
 fetchData();
-
-
-
-
-
 
